@@ -1,0 +1,1 @@
+This is the first Git-based project as a part of The Odin Project curriculum.
